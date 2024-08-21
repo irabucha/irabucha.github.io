@@ -1,0 +1,54 @@
+html {
+  font-size: 30 px;
+  font-family: "Roboto Mono", system-ui;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  background-color: #E3BB32;
+}
+
+body {
+  width: 1000px;
+  margin: 10px auto;
+  background-color: #45E0AA;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+#search {
+display: block;
+margin: 0 auto;
+}
+
+h1 {
+  margin: 0;
+  font-size: 60px;
+  text-align: center;
+  padding: 20px 0;
+  color: #FF89E6;
+  text-shadow: 3px 3px 1px black;
+}
+
+h1:hover
+{
+  color: #7E84F7;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+p,
+li {
+  text-align: center;
+  font-size: 30px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+button {
+  display: block;
+  margin: 0 auto;
+}
+
